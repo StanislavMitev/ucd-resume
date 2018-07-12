@@ -10,7 +10,9 @@ header {
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 360px;
+    max-width: 500px;
     transition: all .5s ease-in-out;
     -maz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
+    
 }
